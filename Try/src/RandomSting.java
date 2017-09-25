@@ -45,7 +45,7 @@ public void testsort(){
         System.out.println("元素为;"+obj);
              }
     }
-    
+
     public static void main(String[] args) {
         RandomSting s=new RandomSting();
         s.testsort();
